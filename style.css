@@ -29,6 +29,10 @@ div {
   text-align: center;
 }
 
+.blueHeader2 {
+  color: blue;
+}
+
 figure {
     display: inline-block;
     border: 1px solid gray;
@@ -55,12 +59,6 @@ figure figcaption {
 .details {
   font-size: 20px;
 }
-
-.image-div {
-  display: -webkit-flex;
-  display: flex;
-}
-
 
 .image {
   max-width: 300px;
